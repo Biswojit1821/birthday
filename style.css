@@ -18,7 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 105vh;
-  background: linear-gradient(to right, rgba(85, 85, 85, 0.6), rgba(199, 199, 199, 0.2))
+  background: linear-gradient(to right, rgba(85, 85, 85, 0.6), rgba(199, 199, 199, 0.2));
 }
 
 ul li {
@@ -49,9 +49,9 @@ ul li span:nth-child(2) {
 }
 
 .coming-year {
-  font-size: 250px;
+  font-size: 120px;
   font-weight: 900;
-  color: rgba(255, 255, 255, 0.493;
+  color: rgba(255, 255, 255, 0.493);
 }
 
 @media (max-width:768px) {
